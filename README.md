@@ -1,57 +1,47 @@
+# Hello, I'm Himanshu Srivastava! 👋
 
-<h2 align="center">Hi there 👋,I'm a Machine Learning & Deep Learning Specialist</h2>
-I'm a Machine Learning and Deep Learning specialist with over 10 years of experience. I focus on solving complex problems and creating impactful solutions in various domains.
+I'm a **Machine Learning and Deep Learning** expert with over 11+ years of experience, specializing in a diverse range of projects. Here’s a bit more about me:
 
-## 🔭 Current Work
-I recently led the **GenAI** project, overseeing architecture, development, and delivery. My expertise includes:
+## 📊 Profile Overview
 
-- **Image Classification**
-- **Object Detection**
-- **Visual Search**
+![Profile Views](https://komarev.com/ghpvc/?username=himanshurobo&color=blue)  
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=himanshurobo&show_icons=true&count_private=true&hide_title=true&hide=prs&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)](https://github.com/himanshurobo)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurobo&layout=compact&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)](https://github.com/himanshurobo)
 
-## 🛠️ Skills
-- **Languages & Tools**: Python, OpenCV, C/C++, Linux Data Structures
+## 🛠️ Skills and Expertise
+- **Programming Languages**: Python, C/C++
+- **Tools & Technologies**: OpenCV, Linux Data Structures
 - **Frameworks**: Convolutional Neural Networks (CNNs), YOLO
-- **Technologies**: Spark, MemSQL
+- **Big Data Technologies**: Spark, MemSQL
 
-## 🚀 Key Achievements
-- **Optimized Visual Search**: Reduced processing time from 11 seconds to 1 second by optimizing the system architecture.
-- **Automatic Look Creation**: Developed using data mining concepts like FP-Growth.
-- **Video Analytics**: Created an attendance system with Neo4j and multiple cameras.
+## 🚀 Recent Projects
+### **GENAI Project**
+- **Role**: Led design, development, and delivery according to client requirements.
+- **Tasks**: Handled architecture, development, and deployment.
 
-## 🌟 Expertise
-- **Natural Language Processing**: Text Summarization, Classification, Entity Recognition
-- **Computer Vision**: Physical Distancing, Pothole Detection, Criminal Profiling
+### **Visual Search System**
+- **Achievement**: Optimized system architecture, reducing processing time from 11 seconds to just 1 second.
 
-## 🤝 Let's Connect
-I’m passionate about problem-solving and team collaboration, and I adapt quickly to new technologies. Feel free to check out my repositories and reach out if you’d like to connect!
+### **Automatic Look Creator**
+- **Approach**: Developed using Data Mining concepts like FP-Growth.
+- **Recommendation System**: Implemented for suggesting popular products based on Google Analytics data.
 
----
+### **Video Analytics**
+- **Project**: Created an attendance system with Neo4j, incorporating detection across multiple cameras.
 
-Feel free to explore my work below:
+## 🧠 Natural Language Processing
+- **Projects**: Text Summarization, Deep Learning-based Text Classification, Name and Entity Recognition, Message Classification (promo, bank, personal).
 
-- [Repositories](https://github.com/himanshurobo?tab=repositories)
-- [LinkedIn](https://www.linkedin.com/in/himanshurobo)
+## 🌟 Computer Vision
+- **Models**: Physical Distancing, Pothole Detection, Criminal Profiling, Crime Prediction.
 
+## 💡 Additional Skills
+- Excellent problem-solving and analytical abilities.
+- Quick learner, adaptable to new technologies and tools.
+- Strong team player with effective communication skills.
 
-&nbsp;![](https://komarev.com/ghpvc/?username=himanshurobo&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshurobo&show_icons=true&locale=en" alt="himanshurobo" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurobo&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-</p>
+## 🌐 Connect with Me
+- [**GitHub**](https://github.com/himanshurobo)
+- [**LinkedIn**](https://www.linkedin.com/in/himanshurobo)
 
-
-<!--
-## Hi there 👋
-**himanshurobo/himanshurobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and connect with me!
