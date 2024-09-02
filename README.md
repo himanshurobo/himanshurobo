@@ -4,9 +4,11 @@ I'm a **Machine Learning and Deep Learning** expert with over 11+ years of exper
 
 ## 📊 Profile Overview
 
-![Profile Views](https://komarev.com/ghpvc/?username=himanshurobo&color=blue)  
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=himanshurobo&show_icons=true&count_private=true&hide_title=true&hide=prs&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)](https://github.com/himanshurobo)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurobo&layout=compact&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&hide_border=true)](https://github.com/himanshurobo)
+&nbsp;![](https://komarev.com/ghpvc/?username=himanshurobo&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshurobo&show_icons=true&locale=en" alt="himanshurobo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshurobo&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
+
 
 ## 🛠️ Skills and Expertise
 - **Programming Languages**: Python, C/C++
