@@ -21,31 +21,41 @@ I'm a **Machine Learning and Deep Learning** expert with over 11+ years of exper
 
 
 ## 🛠️ Skills and Expertise
-- **Programming Languages**: Python, C/C++
-- **Tools & Technologies**: OpenCV, Linux Data Structures
-- **Frameworks**: Convolutional Neural Networks (CNNs), YOLO
-- **Big Data Technologies**: Spark, MemSQL
+- **Programming Languages:** Python, C++, JavaScript
+- **Machine Learning & Deep Learning:** CNN, LSTM, GenAI, RAG, OpenCV
+- **Cloud Services:** Azure, AWS
+- **Data Technologies:** PostgreSQL, MongoDB, Neo4j, Memsql
+- **Tools:** Docker, Linux, Node.js, Apache Spark
 
-## 🚀 Recent Projects
-### **GENAI Project**
-- **Role**: Led design, development, and delivery according to client requirements.
-- **Tasks**: Handled architecture, development, and deployment.
+## 📚 Key Projects
 
-### **Visual Search System**
-- **Achievement**: Optimized system architecture, reducing processing time from 11 seconds to just 1 second.
+### Conversational Commerce Chatbot (GenAI)
+- **Technologies**: Azure (Blob Storage, Pipelines, App Service), Python, PostgreSQL, OpenAI
+- **Description**: Developed a conversational commerce chatbot utilizing RAG architecture for improved content relevance and accuracy. Managed the project from concept through deployment, overseeing both technical and functional aspects.
 
-### **Automatic Look Creator**
-- **Approach**: Developed using Data Mining concepts like FP-Growth.
-- **Recommendation System**: Implemented for suggesting popular products based on Google Analytics data.
+### Customer Analytics
+- **Technologies**: AWS, Python
+- **Description**: Directed comprehensive analytics projects involving reporting, model development, and customer segmentation. Created churn prediction models, strategic campaign management solutions, and customer network graphs for behavioral insights.
 
-### **Video Analytics**
-- **Project**: Created an attendance system with Neo4j, incorporating detection across multiple cameras.
+### Machine Learning & Deep Learning
+- **Technologies**: Python, CNN, LSTM, Neo4j, MongoDB, Node.js, C++, OpenCV
+- **Description**:
+  - Developed apparel classification models and auto-tagging algorithms.
+  - Implemented personalized recommendation systems and reverse image search solutions.
+  - Built models for video analytics, physical distancing, pothole detection, and criminal profiling.
 
-## 🧠 Natural Language Processing
-- **Projects**: Text Summarization, Deep Learning-based Text Classification, Name and Entity Recognition, Message Classification (promo, bank, personal).
+### Real-Time Systems & Image Processing
+- **Technologies**: Python, C++, OpenCV, Linux
+- **Description**:
+  - Created real-time multiple object tracking systems and image recognition tools for fashion.
+  - Developed algorithms for background subtraction, object classification, and feature extraction.
+  - Led end-to-end development and deployment of image processing projects.
 
-## 🌟 Computer Vision
-- **Models**: Physical Distancing, Pothole Detection, Criminal Profiling, Crime Prediction.
+### Research & Development
+- **Technologies**: C++, OpenCV, Python
+- **Description**:
+  - Researched and implemented backward-forward reasoning in object tracking and isolated word recognition using vector quantization.
+  - Designed algorithms for advanced image and speech processing tasks.
 
 ## 💡 Additional Skills
 - Excellent problem-solving and analytical abilities.
