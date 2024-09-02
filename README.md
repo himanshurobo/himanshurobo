@@ -1,4 +1,4 @@
-# Hello, I'm Himanshu Srivastava! 👋
+#  <a href="https://www.linkedin.com/in/himanshurobo" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Linkedin-web-vt.png" alt="LinkedIn" width="28" /> </a> Hello, I'm Himanshu Srivastava! 👋 
 
 I'm a **Machine Learning and Deep Learning** expert with over 11+ years of experience, specializing in a diverse range of projects. Here’s a bit more about me:
 
