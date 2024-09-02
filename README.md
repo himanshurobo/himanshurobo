@@ -21,11 +21,11 @@ I'm a **Machine Learning and Deep Learning** expert with over 11+ years of exper
 
 
 ## 🛠️ Skills and Expertise
-- **Programming Languages:** Python, C++, JavaScript
-- **Machine Learning & Deep Learning:** CNN, LSTM, GenAI, RAG, OpenCV
-- **Cloud Services:** Azure, AWS
-- **Data Technologies:** PostgreSQL, MongoDB, Neo4j, Memsql
-- **Tools:** Docker, Linux, Node.js, Apache Spark
+- **Programming Languages:** Python 🐍, C++ 💻, JavaScript 🌐
+- **Machine Learning & Deep Learning:** CNN 🧠, LSTM 🔄, GenAI 🤖, RAG 📚, OpenCV 📸
+- **Cloud Services:** Azure 🟦, AWS ☁️
+- **Data Technologies:** PostgreSQL 🗃️, MongoDB 🗄️, Neo4j 🔍, Memsql 🧮
+- **Tools:** Linux 🐧, Node.js ⚙️, Docker 🐳, Apache Spark 🔥
 
 ## 📚 Key Projects
 
